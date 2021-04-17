@@ -1,0 +1,13 @@
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\bin\Debug\netcoreapp3.1\Console_Calculyator.exe
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\bin\Debug\netcoreapp3.1\Console_Calculyator.deps.json
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\bin\Debug\netcoreapp3.1\Console_Calculyator.runtimeconfig.json
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\bin\Debug\netcoreapp3.1\Console_Calculyator.runtimeconfig.dev.json
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\bin\Debug\netcoreapp3.1\Console_Calculyator.dll
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\bin\Debug\netcoreapp3.1\Console_Calculyator.pdb
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\obj\Debug\netcoreapp3.1\Console_Calculyator.csprojAssemblyReference.cache
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\obj\Debug\netcoreapp3.1\Console_Calculyator.AssemblyInfoInputs.cache
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\obj\Debug\netcoreapp3.1\Console_Calculyator.AssemblyInfo.cs
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\obj\Debug\netcoreapp3.1\Console_Calculyator.csproj.CoreCompileInputs.cache
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\obj\Debug\netcoreapp3.1\Console_Calculyator.dll
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\obj\Debug\netcoreapp3.1\Console_Calculyator.pdb
+D:\pragrammalar\dasturlar\c#\qora_ekran\Console_Calculyator\Console_Calculyator\obj\Debug\netcoreapp3.1\Console_Calculyator.genruntimeconfig.cache
